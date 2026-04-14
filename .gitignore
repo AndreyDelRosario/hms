@@ -1,3 +1,1 @@
-code_snippet/*.class
 code_snippet/**/*.class
-code_snippet/**/**/*.class
