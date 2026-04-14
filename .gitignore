@@ -1,1 +1,3 @@
-*.class
+code_snippet/*.class
+code_snippet/**/*.class
+Code_snippet/**/**/*.class
