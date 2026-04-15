@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.class
+=======
+code_snippet/**/*.class
+>>>>>>> 80fe2dd319952619a8b083e8a3bd40d009943ea2
